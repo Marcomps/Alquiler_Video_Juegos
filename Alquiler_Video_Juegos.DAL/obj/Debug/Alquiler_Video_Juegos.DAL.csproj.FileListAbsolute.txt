@@ -1,0 +1,22 @@
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\Alquiler_Video_Juegos.DAL.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\Alquiler_Video_Juegos.DAL.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\obj\Debug\Alquiler_Video_Juegos.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\obj\Debug\Alquiler_Video_Juegos.DAL.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\obj\Debug\Alquiler_Video_Juegos.DAL.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\Alquiler_Video_Juegos.DAL.dll.config
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\Alquiler_Video_Juegos.DAL.dll.config
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\Alquiler_Video_Juegos.DAL.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\Alquiler_Video_Juegos.DAL.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\obj\Debug\Alquiler_Video_Juegos.DAL.csprojAssemblyReference.cache
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\obj\Debug\Alquiler_Video_Juegos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\obj\Debug\Alquiler_Video_Juegos.DAL.csproj.CopyComplete
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\obj\Debug\Alquiler_Video_Juegos.DAL.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.DAL\obj\Debug\Alquiler_Video_Juegos.DAL.pdb

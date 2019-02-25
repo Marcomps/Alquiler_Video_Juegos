@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BDAlquiler_Video_JuegosModelStoreContainer" CdmEntityContainer="BDAlquiler_Video_JuegosEntities">
+    <EntitySetMapping Name="Clientes">
+      <EntityTypeMapping TypeName="BDAlquiler_Video_JuegosModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="id_Cliente" ColumnName="id_Cliente" />
+          <ScalarProperty Name="Nombre_Cliente" ColumnName="Nombre_Cliente" />
+          <ScalarProperty Name="Direccion_Cliente" ColumnName="Direccion_Cliente" />
+          <ScalarProperty Name="Tel_Cliente" ColumnName="Tel_Cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hitorials">
+      <EntityTypeMapping TypeName="BDAlquiler_Video_JuegosModel.Hitorial">
+        <MappingFragment StoreEntitySet="Hitorial">
+          <ScalarProperty Name="id_Historial" ColumnName="id_Historial" />
+          <ScalarProperty Name="id_Juego" ColumnName="id_Juego" />
+          <ScalarProperty Name="id_Cliente" ColumnName="id_Cliente" />
+          <ScalarProperty Name="Fecha_Prestamo" ColumnName="Fecha_Prestamo" />
+          <ScalarProperty Name="Fecha_Entrega" ColumnName="Fecha_Entrega" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Juegos">
+      <EntityTypeMapping TypeName="BDAlquiler_Video_JuegosModel.Juego">
+        <MappingFragment StoreEntitySet="Juegos">
+          <ScalarProperty Name="id_Juego" ColumnName="id_Juego" />
+          <ScalarProperty Name="Nombre_Juego" ColumnName="Nombre_Juego" />
+          <ScalarProperty Name="Descripcion_Juego" ColumnName="Descripcion_Juego" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SP_HISTORIAL_POR_ID" FunctionName="BDAlquiler_Video_JuegosModel.Store.SP_HISTORIAL_POR_ID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BDAlquiler_Video_JuegosModel.SP_HISTORIAL_POR_ID_Result">
+          <ScalarProperty Name="HISTORIAL" ColumnName="HISTORIAL" />
+          <ScalarProperty Name="FECHA_PRESTAMO" ColumnName="FECHA_PRESTAMO" />
+          <ScalarProperty Name="FECHA_ENTREGA" ColumnName="FECHA_ENTREGA" />
+          <ScalarProperty Name="IDCLIENTE" ColumnName="IDCLIENTE" />
+          <ScalarProperty Name="NOMBRE_CLIENTE" ColumnName="NOMBRE_CLIENTE" />
+          <ScalarProperty Name="TEL_CLIENTE" ColumnName="TEL_CLIENTE" />
+          <ScalarProperty Name="DIRECION_CLIENTE" ColumnName="DIRECION_CLIENTE" />
+          <ScalarProperty Name="ID_JUEGO" ColumnName="ID_JUEGO" />
+          <ScalarProperty Name="NOMBRE_JUEGO" ColumnName="NOMBRE_JUEGO" />
+          <ScalarProperty Name="TIPO" ColumnName="TIPO" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

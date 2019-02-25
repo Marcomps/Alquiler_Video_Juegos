@@ -1,0 +1,172 @@
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\ApplicationInsights.config
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csc.exe
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csc.exe.config
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csc.rsp
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csi.exe
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csi.rsp
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.AppContext.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\vbc.exe
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\vbc.exe.config
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\vbc.rsp
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.dll.config
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Antlr3.Runtime.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.Web.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Newtonsoft.Json.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Helpers.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Mvc.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Optimization.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Razor.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\WebGrease.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Helpers.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Mvc.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Optimization.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Razor.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Antlr3.Runtime.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Newtonsoft.Json.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.Web.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\obj\Debug\Alquiler_Video_Juegos.csprojResolveAssemblyReference.cache
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\obj\Debug\Alquiler_Video_Juegos.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\obj\Debug\Alquiler_Video_Juegos.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquileres_Video_Juego.ENT.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.BL.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.DAL.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\EntityFramework.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquileres_Video_Juego.ENT.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.BL.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.DAL.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.DAL.dll.config
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\EntityFramework.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\EntityFramework.SqlServer.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\EntityFramework.SqlServer.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\ApplicationInsights.config
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csc.exe
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csc.exe.config
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csc.rsp
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csi.exe
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\csi.rsp
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.AppContext.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\vbc.exe
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\vbc.exe.config
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\vbc.rsp
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.dll.config
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquileres_Video_Juego.ENT.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.BL.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Antlr3.Runtime.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\EntityFramework.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\EntityFramework.SqlServer.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.Web.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Newtonsoft.Json.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Helpers.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Mvc.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Optimization.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Razor.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\WebGrease.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.DAL.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquileres_Video_Juego.ENT.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.BL.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\EntityFramework.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\EntityFramework.SqlServer.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Helpers.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Mvc.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Optimization.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.Razor.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Antlr3.Runtime.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Newtonsoft.Json.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Microsoft.AI.Web.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.DAL.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\Alquiler_Video_Juegos.DAL.dll.config
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\obj\Debug\Alquiler_Video_Juegos.csprojAssemblyReference.cache
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\obj\Debug\Alquiler_Video_Juegos.csproj.CoreCompileInputs.cache
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\obj\Debug\Alquiler_Video_Juegos.csproj.CopyComplete
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\obj\Debug\Alquiler_Video_Juegos.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos\obj\Debug\Alquiler_Video_Juegos.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b5dbd25fe403469e913227b78ad3cb6b" Name="Diagram1">
+        <EntityTypeShape EntityType="BDAlquiler_Video_JuegosModel.Cliente" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDAlquiler_Video_JuegosModel.Hitorial" Width="1.5" PointX="3.5" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BDAlquiler_Video_JuegosModel.Juego" Width="1.5" PointX="8.125" PointY="0.625" IsExpanded="true" />
+        <AssociationConnector Association="BDAlquiler_Video_JuegosModel.FK_Hitorial_Hitorial" ManuallyRouted="true" >
+          <ConnectorPoint PointX="1.5" PointY="3.1052864583333335" />
+          <ConnectorPoint PointX="1.5" PointY="5.0574446614583328" />
+          <ConnectorPoint PointX="3.5" PointY="5.0574446614583328" />
+        </AssociationConnector>
+        <AssociationConnector Association="BDAlquiler_Video_JuegosModel.FK_Hitorial_Juegos" ManuallyRouted="false" >
+        </AssociationConnector>
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

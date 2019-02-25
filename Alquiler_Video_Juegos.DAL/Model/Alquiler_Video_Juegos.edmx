@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="BDAlquiler_Video_JuegosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Cliente">
+          <Key>
+            <PropertyRef Name="id_Cliente" />
+          </Key>
+          <Property Name="id_Cliente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre_Cliente" Type="varchar" MaxLength="50" />
+          <Property Name="Direccion_Cliente" Type="varchar" MaxLength="80" />
+          <Property Name="Tel_Cliente" Type="char" MaxLength="12" />
+        </EntityType>
+        <EntityType Name="Hitorial">
+          <Key>
+            <PropertyRef Name="id_Historial" />
+          </Key>
+          <Property Name="id_Historial" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="id_Juego" Type="int" Nullable="false" />
+          <Property Name="id_Cliente" Type="int" Nullable="false" />
+          <Property Name="Fecha_Prestamo" Type="date" />
+          <Property Name="Fecha_Entrega" Type="date" />
+        </EntityType>
+        <EntityType Name="Juegos">
+          <Key>
+            <PropertyRef Name="id_Juego" />
+          </Key>
+          <Property Name="id_Juego" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre_Juego" Type="varchar" MaxLength="30" />
+          <Property Name="Descripcion_Juego" Type="varchar" MaxLength="60" />
+          <Property Name="Tipo" Type="int" />
+        </EntityType>
+        <Association Name="FK_Hitorial_Hitorial">
+          <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+          <End Role="Hitorial" Type="Self.Hitorial" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="id_Cliente" />
+            </Principal>
+            <Dependent Role="Hitorial">
+              <PropertyRef Name="id_Cliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Hitorial_Juegos">
+          <End Role="Juegos" Type="Self.Juegos" Multiplicity="1" />
+          <End Role="Hitorial" Type="Self.Hitorial" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Juegos">
+              <PropertyRef Name="id_Juego" />
+            </Principal>
+            <Dependent Role="Hitorial">
+              <PropertyRef Name="id_Juego" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="SP_HISTORIAL_POR_ID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="IDCLIENTE" Type="int" Mode="In" />
+        </Function>
+        <EntityContainer Name="BDAlquiler_Video_JuegosModelStoreContainer">
+          <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Hitorial" EntityType="Self.Hitorial" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Juegos" EntityType="Self.Juegos" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Hitorial_Hitorial" Association="Self.FK_Hitorial_Hitorial">
+            <End Role="Cliente" EntitySet="Cliente" />
+            <End Role="Hitorial" EntitySet="Hitorial" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Hitorial_Juegos" Association="Self.FK_Hitorial_Juegos">
+            <End Role="Juegos" EntitySet="Juegos" />
+            <End Role="Hitorial" EntitySet="Hitorial" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BDAlquiler_Video_JuegosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Cliente">
+          <Key>
+            <PropertyRef Name="id_Cliente" />
+          </Key>
+          <Property Name="id_Cliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre_Cliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Direccion_Cliente" Type="String" MaxLength="80" FixedLength="false" Unicode="false" />
+          <Property Name="Tel_Cliente" Type="String" MaxLength="12" FixedLength="true" Unicode="false" />
+          <NavigationProperty Name="Hitorials" Relationship="Self.FK_Hitorial_Hitorial" FromRole="Cliente" ToRole="Hitorial" />
+        </EntityType>
+        <EntityType Name="Hitorial">
+          <Key>
+            <PropertyRef Name="id_Historial" />
+          </Key>
+          <Property Name="id_Historial" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="id_Juego" Type="Int32" Nullable="false" />
+          <Property Name="id_Cliente" Type="Int32" Nullable="false" />
+          <Property Name="Fecha_Prestamo" Type="DateTime" Precision="0" />
+          <Property Name="Fecha_Entrega" Type="DateTime" Precision="0" />
+          <NavigationProperty Name="Cliente" Relationship="Self.FK_Hitorial_Hitorial" FromRole="Hitorial" ToRole="Cliente" />
+          <NavigationProperty Name="Juego" Relationship="Self.FK_Hitorial_Juegos" FromRole="Hitorial" ToRole="Juegos" />
+        </EntityType>
+        <EntityType Name="Juego">
+          <Key>
+            <PropertyRef Name="id_Juego" />
+          </Key>
+          <Property Name="id_Juego" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre_Juego" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Descripcion_Juego" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+          <Property Name="Tipo" Type="Int32" />
+          <NavigationProperty Name="Hitorials" Relationship="Self.FK_Hitorial_Juegos" FromRole="Juegos" ToRole="Hitorial" />
+        </EntityType>
+        <Association Name="FK_Hitorial_Hitorial">
+          <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+          <End Role="Hitorial" Type="Self.Hitorial" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="id_Cliente" />
+            </Principal>
+            <Dependent Role="Hitorial">
+              <PropertyRef Name="id_Cliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Hitorial_Juegos">
+          <End Role="Juegos" Type="Self.Juego" Multiplicity="1" />
+          <End Role="Hitorial" Type="Self.Hitorial" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Juegos">
+              <PropertyRef Name="id_Juego" />
+            </Principal>
+            <Dependent Role="Hitorial">
+              <PropertyRef Name="id_Juego" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="BDAlquiler_Video_JuegosEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Clientes" EntityType="Self.Cliente" />
+          <EntitySet Name="Hitorials" EntityType="Self.Hitorial" />
+          <EntitySet Name="Juegos" EntityType="Self.Juego" />
+          <AssociationSet Name="FK_Hitorial_Hitorial" Association="Self.FK_Hitorial_Hitorial">
+            <End Role="Cliente" EntitySet="Clientes" />
+            <End Role="Hitorial" EntitySet="Hitorials" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Hitorial_Juegos" Association="Self.FK_Hitorial_Juegos">
+            <End Role="Juegos" EntitySet="Juegos" />
+            <End Role="Hitorial" EntitySet="Hitorials" />
+          </AssociationSet>
+          <FunctionImport Name="SP_HISTORIAL_POR_ID" ReturnType="Collection(BDAlquiler_Video_JuegosModel.SP_HISTORIAL_POR_ID_Result)">
+            <Parameter Name="IDCLIENTE" Mode="In" Type="Int32" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="SP_HISTORIAL_POR_ID_Result">
+          <Property Type="Int32" Name="HISTORIAL" Nullable="false" />
+          <Property Type="DateTime" Name="FECHA_PRESTAMO" Nullable="true" />
+          <Property Type="DateTime" Name="FECHA_ENTREGA" Nullable="true" />
+          <Property Type="Int32" Name="IDCLIENTE" Nullable="false" />
+          <Property Type="String" Name="NOMBRE_CLIENTE" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="TEL_CLIENTE" Nullable="true" MaxLength="12" />
+          <Property Type="String" Name="DIRECION_CLIENTE" Nullable="true" MaxLength="80" />
+          <Property Type="Int32" Name="ID_JUEGO" Nullable="false" />
+          <Property Type="String" Name="NOMBRE_JUEGO" Nullable="true" MaxLength="30" />
+          <Property Type="Int32" Name="TIPO" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="BDAlquiler_Video_JuegosModelStoreContainer" CdmEntityContainer="BDAlquiler_Video_JuegosEntities">
+          <EntitySetMapping Name="Clientes">
+            <EntityTypeMapping TypeName="BDAlquiler_Video_JuegosModel.Cliente">
+              <MappingFragment StoreEntitySet="Cliente">
+                <ScalarProperty Name="id_Cliente" ColumnName="id_Cliente" />
+                <ScalarProperty Name="Nombre_Cliente" ColumnName="Nombre_Cliente" />
+                <ScalarProperty Name="Direccion_Cliente" ColumnName="Direccion_Cliente" />
+                <ScalarProperty Name="Tel_Cliente" ColumnName="Tel_Cliente" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Hitorials">
+            <EntityTypeMapping TypeName="BDAlquiler_Video_JuegosModel.Hitorial">
+              <MappingFragment StoreEntitySet="Hitorial">
+                <ScalarProperty Name="id_Historial" ColumnName="id_Historial" />
+                <ScalarProperty Name="id_Juego" ColumnName="id_Juego" />
+                <ScalarProperty Name="id_Cliente" ColumnName="id_Cliente" />
+                <ScalarProperty Name="Fecha_Prestamo" ColumnName="Fecha_Prestamo" />
+                <ScalarProperty Name="Fecha_Entrega" ColumnName="Fecha_Entrega" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Juegos">
+            <EntityTypeMapping TypeName="BDAlquiler_Video_JuegosModel.Juego">
+              <MappingFragment StoreEntitySet="Juegos">
+                <ScalarProperty Name="id_Juego" ColumnName="id_Juego" />
+                <ScalarProperty Name="Nombre_Juego" ColumnName="Nombre_Juego" />
+                <ScalarProperty Name="Descripcion_Juego" ColumnName="Descripcion_Juego" />
+                <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="SP_HISTORIAL_POR_ID" FunctionName="BDAlquiler_Video_JuegosModel.Store.SP_HISTORIAL_POR_ID">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BDAlquiler_Video_JuegosModel.SP_HISTORIAL_POR_ID_Result">
+                <ScalarProperty Name="HISTORIAL" ColumnName="HISTORIAL" />
+                <ScalarProperty Name="FECHA_PRESTAMO" ColumnName="FECHA_PRESTAMO" />
+                <ScalarProperty Name="FECHA_ENTREGA" ColumnName="FECHA_ENTREGA" />
+                <ScalarProperty Name="IDCLIENTE" ColumnName="IDCLIENTE" />
+                <ScalarProperty Name="NOMBRE_CLIENTE" ColumnName="NOMBRE_CLIENTE" />
+                <ScalarProperty Name="TEL_CLIENTE" ColumnName="TEL_CLIENTE" />
+                <ScalarProperty Name="DIRECION_CLIENTE" ColumnName="DIRECION_CLIENTE" />
+                <ScalarProperty Name="ID_JUEGO" ColumnName="ID_JUEGO" />
+                <ScalarProperty Name="NOMBRE_JUEGO" ColumnName="NOMBRE_JUEGO" />
+                <ScalarProperty Name="TIPO" ColumnName="TIPO" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Alquileres_Video_Juego.ENT.HistorialENT>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>
+           ID del Juego
+        </th>
+        <th>
+           ID Cliente
+        </th>
+        <th>
+            Fecha Prestamo
+        </th>
+        <th>
+            Fecha de Entrega
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdHistorial)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdJuego)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdCliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha_Prestamo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha_Entrega)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

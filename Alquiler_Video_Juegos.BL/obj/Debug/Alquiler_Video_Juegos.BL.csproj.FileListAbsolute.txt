@@ -1,0 +1,26 @@
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\obj\Debug\Alquiler_Video_Juegos.BL.csprojResolveAssemblyReference.cache
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.BL.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.BL.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquileres_Video_Juego.ENT.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.DAL.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquileres_Video_Juego.ENT.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.DAL.pdb
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.DAL.dll.config
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\obj\Debug\Alquiler_Video_Juegos.BL.dll
+C:\Users\Tars117\Documents\INTERFELL alquiler de video juegos\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\obj\Debug\Alquiler_Video_Juegos.BL.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.BL.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.BL.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquileres_Video_Juego.ENT.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.DAL.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\EntityFramework.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquileres_Video_Juego.ENT.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.DAL.pdb
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\Alquiler_Video_Juegos.DAL.dll.config
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\bin\Debug\EntityFramework.xml
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\obj\Debug\Alquiler_Video_Juegos.BL.csprojAssemblyReference.cache
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\obj\Debug\Alquiler_Video_Juegos.BL.csproj.CoreCompileInputs.cache
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\obj\Debug\Alquiler_Video_Juegos.BL.csproj.CopyComplete
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\obj\Debug\Alquiler_Video_Juegos.BL.dll
+C:\Users\Tars117\Desktop\Alquiler_Video_Juegos\Alquiler_Video_Juegos.BL\obj\Debug\Alquiler_Video_Juegos.BL.pdb
